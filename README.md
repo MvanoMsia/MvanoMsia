@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on a creative writing project
 - 📫 How to reach me kutloanomsia@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: no afraid of Maths
+- ⚡ Fun fact: not afraid of Maths
 
 <!---
 MvanoMsia/MvanoMsia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

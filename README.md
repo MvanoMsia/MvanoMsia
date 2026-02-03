@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @MvanoMsia
-- 👀 I’m interested in Data analysis
-- 🌱 I’m currently learning Computer Science 
+- 👀 I’m interested in Data analysis | Data Science
+- 🌱 I’m CS graduate in Computer Science and Statistics
+-     I am currently doing my Honours in Mathematical Statistics
 - 💞️ I’m looking to collaborate on a creative writing project
-- 📫 How to reach me kutloanomsia@gmail.com
+- 📫 How to reach me kutloanomsia@gmail.com, cell no.: 060 603 6767
 - 😄 Pronouns: He
 - ⚡ Fun fact: not afraid of Maths
 
